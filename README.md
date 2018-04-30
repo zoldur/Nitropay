@@ -5,7 +5,7 @@ Shell script to install a [NitroPay Masternode](https://nitropay.cash/) on a Lin
 ## Installation
 ```
 wget -q https://raw.githubusercontent.com/zoldur/Nitropay/master/nitropay_install.sh
-bash nistropay_install.sh
+bash nitropay_install.sh
 ```
 ***
 
